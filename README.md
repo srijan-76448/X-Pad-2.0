@@ -31,14 +31,14 @@ The **X-Pad 2.0** is a dual-MCU, _multi-protocol_ controller supporting five com
 | **IMU**                | MPU6050 Accelerometer + Gyroscope.                  |
 | **Battery Management** | BQ2057W Li-ion charger with HY2213 balancing.       |
 
-### Pin Mapping (SPI Bridge)
+<!-- ### Pin Mapping (SPI Bridge)
 
 | Signal    | ESP32-S3 (Master) | ATmega328P (Slave) |
 | :-------- | :---------------- | :----------------- |
 | **MOSI**  | IO11              | PB3                |
 | **MISO**  | IO13              | PB4                |
 | **SCK**   | IO12              | PB5                |
-| **SS/CS** | IO10              | PB2                |
+| **SS/CS** | IO10              | PB2                | -->
 
 ### Project Schematics
 
